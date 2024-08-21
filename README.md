@@ -31,10 +31,6 @@ Make sure you have the following Python packages installed:
 - `Pillow`
 - `pywin32`
 
-You can install them using pip:
-```bash
-pip install pynput scipy sounddevice cryptography requests Pillow pywin32
-
 ## Setup
 
 1. **Generate an Encryption Key**: Run key_generator.py to generate a new encryption key. This key will be used to encrypt and decrypt files.
